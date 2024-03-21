@@ -3,3 +3,77 @@
     padding:0;
     box-sizing: border-box;
 }
+
+.background{
+    
+    padding: 20px;
+}
+
+.container{
+    max-width: 800px;
+    margin:0 auto;
+    border:2px dotted black;
+}
+
+.small{
+    max-width: 600px !important;
+}
+
+.row{
+    display:flex;
+}
+
+.col-100{
+    width:100%;
+    height:50px;
+}
+
+.col-60{
+    width:60%;
+    height:50px;
+}
+
+.col-40{
+    width:40%;
+    height:50px;
+}
+
+.gold{
+    background-color: goldenrod;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.sky{
+    background-color: skyblue;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.dark-gray{
+    background-color: gray;
+}
+
+.lightblue{
+    background-color: lightblue;
+}
+
+.bisque{
+    background-color: bisque;
+}
+
+.green{
+    background-color: green;
+}
+
+.turquoise{
+    background-color: turquoise;
+}
+
+.gray{
+    background-color: lightgray;
+}
